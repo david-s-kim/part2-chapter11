@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">별다방커피</string>
+    <string name="order">order</string>
+    <string name="home">home</string>
+    <string name="appbar_title_text">How\'s life treating you</string>
+    <string name="appbar_star_title">%d/%d*</string>
+</resources>

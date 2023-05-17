@@ -1,0 +1,9 @@
+{
+  "user": {
+    "nickname" : "자바코틀린",
+    "starCount" : 10,
+    "totalCount" : 12
+  },
+  "appbarImage" : "http://picsum.photos/200/100"
+
+}
