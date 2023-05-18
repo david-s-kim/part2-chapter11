@@ -1,9 +1,12 @@
 {
   "user": {
-    "nickname" : "자바코틀린",
-    "starCount" : 10,
-    "totalCount" : 12
+    "nickname": "자바코틀린",
+    "starCount": 10,
+    "totalCount": 12
   },
-  "appbarImage" : "http://picsum.photos/200/100"
-
+  "appbarImage": "http://picsum.photos/200/100",
+  "banner": {
+    "image": "http://picsum.photos/200/240",
+    "contentDescription": "현재 진행중인 이벤트"
+  }
 }

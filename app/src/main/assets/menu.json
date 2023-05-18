@@ -1,0 +1,42 @@
+{
+  "coffee": [
+    {
+      "name": "아메리카노",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "카페라떼",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "아이스커피",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "디카페인",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "얼그레이티 ",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "홍차라떼",
+      "image": "https://picsum.photos/100/100"
+    },
+    {
+      "name": "모카",
+      "image": "https://picsum.photos/100/100"
+    }
+  ],
+  "food" : [
+    {
+      "name": "케잌",
+      "image": "https://picsum.photos/100/100"
+    },    {
+      "name": "홍차라떼",
+      "image": "https://picsum.photos/100/100"
+    }
+  ]
+
+}
